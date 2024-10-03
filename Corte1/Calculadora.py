@@ -49,5 +49,4 @@ def calculadora():
         else:
             print("Opción no válida, por favor elige una opción del menú.")
 
-# Ejecutar la calculadora
 calculadora()
